@@ -1,0 +1,1 @@
+clones/a1004ns/clone_info.mk
